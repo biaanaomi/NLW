@@ -1,5 +1,3 @@
----
-
 A Happy se propõe a **facilitar o contato** entre a população e **ONGs Humanitárias**. 
 
 Reconhecemos que atualmente **não existe** nenhum **repositório** que liste as **ONGs de Mogi das Cruzes - São Paulo**, então entramos para realizar este serviço. Nosso propósito **não é arrecadar verbas** para as ONGs, ou funcionar como uma, nosso objetivo é **ligar as pessoas favorecidas pelas ONGs à sociedade**.
@@ -66,5 +64,3 @@ Foram utilizadas as seguintes ferramentas:
   4. Ao finalizar a instalação, execute `npm start`
 
   5. Aponte a camera do expo, para o QR Code no site que irá abrir. 
-
----
