@@ -15,7 +15,6 @@ Nossa Plataforma consiste de uma **Restful API** em **ExpressJS** com **TypeORM 
 
 A Happy utiliza do **amarelo** e do **azul** em sua plataforma, para gerar uma sensação de **confiança e bem-estar**. As **fontes arredondadas** também trazem um tom mais **amigável**. Como um extra, a plataforma possui um **Dark Mode** para usuários mais sensíveis a luz 🕶️.
 
----
 
 ## 📚 A Stack
 Foram utilizadas as seguintes ferramentas: 
